@@ -1,7 +1,6 @@
 <h1> Hxxdini</h1>
-<p>Welcome to my github. Easily find all my commits and repos.</p>
-
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="500"/>
+<p>Welcome to my github. Easily find all my commits and repos.</p>
 
 <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif -->
 
