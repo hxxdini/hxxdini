@@ -7,7 +7,7 @@
 
 <h2> Bio</h2>
 
-- 🔭 &nbsp; Currently working on 100 Days Of Code Challenge
+- 🔭 &nbsp; 100 Days Of Code Challenge
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Programming & Music Theory.
 - 💼 &nbsp; Python/PHP developer.
