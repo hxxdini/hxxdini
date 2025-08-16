@@ -6,11 +6,7 @@
 
 <h2> Bio</h2>
 
-- 🔭 &nbsp; 100 Days Of Code Challenge
-- 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Programming.
-- 💼 &nbsp; Python/PHP developer.
-- ☕ &nbsp; Coffee No Tea.
+- Coding
 
 <h3>🛠 Tech Stack</h3>
 
